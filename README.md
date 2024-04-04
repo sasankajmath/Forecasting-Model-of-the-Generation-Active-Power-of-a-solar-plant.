@@ -1,5 +1,5 @@
 # Forecasting-Model-of-the-Generation-Active-Power-of-a-solar-plant.
-Data Dictionary of Dataset:
+** Data Dictionary of Dataset:
  Date Time : Data Time of Generation
  RY VOLTAGE : 3 Phase Voltage – Red – Yellow
  YB VOLTAGE : 3 Phase Voltage – Yellow - Blue
@@ -21,4 +21,4 @@ Data Dictionary of Dataset:
  WIND SPEED
  WIND DIRECTION
  HUMIDITY
- RAIN
+ RAIN **
